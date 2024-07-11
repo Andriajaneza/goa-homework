@@ -7,13 +7,13 @@ total = num1 + num2
 print (total)
 
 greeting = "hello"
-age = 11
+age = 25
 message = (greeting + ", i am " + str(age) + " years old.")
 print(message)
 
 
-a = 7
-b = 9
+a = 15
+b = 5
 result = a * b
 print ("result of division is: " + str(result))
 
@@ -27,11 +27,13 @@ name = "world"
 full_message = greeting + "" + name
 print (full_message)
 
-a = 134
-b = 2345
+a = 50
+b = 100
 result = a+b
 print (result)
 
 man = "lazy"
 bananas = 5
 print (man + " has " + str(bananas) + " bananas.")
+
+
